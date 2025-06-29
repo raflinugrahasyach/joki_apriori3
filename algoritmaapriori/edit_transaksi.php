@@ -23,9 +23,6 @@ if (isset($_POST['update'])) {
         $set_update = [
             'transaction_date' => $_POST['transaction_date'],
             'produk' => implode(",", $produk_array),
-            'harga' => preg_replace("/[^0-9]/", "", $_POST['harga']),
-            'jumlah_terjual' => intval($_POST['jumlah_terjual']),
-            'total_harga' => preg_replace("/[^0-9]/", "", $_POST['total_harga']),
             'nama_pembeli' => $_POST['nama_pembeli'], 
             'kota_tujuan' => $_POST['kota_tujuan'],
             'metode_pembayaran' => $_POST['metode_pembayaran']
@@ -75,41 +72,9 @@ $produk_terpilih = explode(",", $data['produk']);
                         }
                         ?>
                     </select></div>
-                    <div class="form-group"><label class="font-weight-bold">Harga</label><input type="text" name="harga" id="harga" value="<?= price_format($data['harga']) ?>" class="form-control" onkeyup="formatRupiah(this);" required></div>
-                    <div class="form-group"><label class="font-weight-bold">Jumlah Terjual</label><input type="number" name="jumlah_terjual" id="jumlah" value="<?= $data['jumlah_terjual'] ?>" class="form-control" onkeyup="hitungTotal();" required></div>
-                    <div class="form-group"><label class="font-weight-bold">Total Harga</label><input type="text" name="total_harga" id="total" value="<?= price_format($data['total_harga']) ?>" class="form-control" onkeyup="formatRupiah(this);" required></div>
                 </div>
             </div>
         </div>
         <div class="card-footer text-right"><button name="update" type="submit" class="btn btn-success"><i class="fa fa-save"></i> Update Data</button></div>
     </form>
 </div>
-<script>
-    function formatRupiah(angka, prefix) {
-        var number_string = angka.value.replace(/[^,\d]/g, '').toString(),
-            split = number_string.split(','),
-            sisa = split[0].length % 3,
-            rupiah = split[0].substr(0, sisa),
-            ribuan = split[0].substr(sisa).match(/\d{3}/gi);
-
-        if (ribuan) {
-            separator = sisa ? '.' : '';
-            rupiah += separator + ribuan.join('.');
-        }
-
-        rupiah = split[1] != undefined ? rupiah + ',' + split[1] : rupiah;
-        angka.value = prefix == undefined ? rupiah : (rupiah ? 'Rp. ' + rupiah : '');
-    }
-
-    function hitungTotal() {
-        var harga = document.getElementById('harga').value.replace(/[^0-9]/g, '');
-        var jumlah = document.getElementById('jumlah').value;
-        var total = parseInt(harga) * parseInt(jumlah);
-
-        if (!isNaN(total)) {
-            var totalInput = document.getElementById('total');
-            totalInput.value = total;
-            formatRupiah(totalInput, 'Rp. ');
-        }
-    }
-</script>

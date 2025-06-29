@@ -24,9 +24,6 @@ if (isset($_POST['simpan'])) {
         $data_to_insert = [
             'transaction_date' => $_POST['transaction_date'],
             'produk' => implode(",", $produk_array),
-            'harga' => preg_replace("/[^0-9]/", "", $_POST['harga']), // Hanya ambil angka
-            'jumlah_terjual' => intval($_POST['jumlah_terjual']),
-            'total_harga' => preg_replace("/[^0-9]/", "", $_POST['total_harga']), // Hanya ambil angka
             'nama_pembeli' => $_POST['nama_pembeli'],
             'kota_tujuan' => $_POST['kota_tujuan'],
             'metode_pembayaran' => $_POST['metode_pembayaran']
@@ -53,7 +50,6 @@ if (isset($_GET['hapus'])) {
 }
 ?>
 
-<!-- Judul Halaman dan Tombol Tambah Data -->
 <div class="d-sm-flex align-items-center justify-content-between mb-4">
     <h1 class="h3 mb-0 text-gray-800"><i class="fas fa-fw fa-money-bill-wave"></i> Data Penjualan Ulos</h1>
     <button type="button" class="btn btn-success" data-toggle="modal" data-target="#modal_tambah_transaksi">
@@ -61,7 +57,6 @@ if (isset($_GET['hapus'])) {
     </button>
 </div>
 
-<!-- Modal untuk Tambah Data Penjualan -->
 <div class="modal fade" id="modal_tambah_transaksi" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
@@ -109,18 +104,6 @@ if (isset($_GET['hapus'])) {
                                     ?>
                                 </select>
                             </div>
-                            <div class="form-group">
-                                <label class="font-weight-bold">Harga</label>
-                                <input type="text" name="harga" id="harga" class="form-control" onkeyup="formatRupiah(this);" required>
-                            </div>
-                            <div class="form-group">
-                                <label class="font-weight-bold">Jumlah Terjual</label>
-                                <input type="number" name="jumlah_terjual" id="jumlah" class="form-control" onkeyup="hitungTotal();" required>
-                            </div>
-                             <div class="form-group">
-                                <label class="font-weight-bold">Total Harga</label>
-                                <input type="text" name="total_harga" id="total" class="form-control" onkeyup="formatRupiah(this);" required>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -133,7 +116,6 @@ if (isset($_GET['hapus'])) {
     </div>
 </div>
 
-<!-- Tabel untuk menampilkan data penjualan -->
 <div class="card shadow mb-4">
     <div class="card-header py-3 d-sm-flex align-items-center justify-content-between">
         <h6 class="m-0 font-weight-bold text-danger"><i class="fa fa-table"></i> Daftar Data Penjualan</h6>
@@ -155,9 +137,6 @@ if (isset($_GET['hapus'])) {
                         <th>No</th>
                         <th>Tanggal</th>
                         <th>Produk</th>
-                        <th>Harga</th>
-                        <th>Jumlah</th>
-                        <th>Total</th>
                         <th>Pembeli</th>
                         <th>Tujuan</th>
                         <th>Pembayaran</th>
@@ -172,9 +151,6 @@ if (isset($_GET['hapus'])) {
                             <td class='text-center'><?= $no++ ?></td>
                             <td class='text-center'><?= format_date2($row['transaction_date']) ?></td>
                             <td><?= $row['produk'] ?></td>
-                            <td class='text-right'><?= price_format($row['harga']) ?></td>
-                            <td class='text-center'><?= $row['jumlah_terjual'] ?></td>
-                            <td class='text-right'><?= price_format($row['total_harga']) ?></td>
                             <td><?= $row['nama_pembeli'] ?></td>
                             <td><?= $row['kota_tujuan'] ?></td>
                             <td class='text-center'><?= $row['metode_pembayaran'] ?></td>
@@ -191,34 +167,3 @@ if (isset($_GET['hapus'])) {
         </div>
     </div>
 </div>
-
-<!-- JavaScript untuk format Rupiah dan perhitungan otomatis -->
-<script>
-    function formatRupiah(angka, prefix) {
-        var number_string = angka.value.replace(/[^,\d]/g, '').toString(),
-            split = number_string.split(','),
-            sisa = split[0].length % 3,
-            rupiah = split[0].substr(0, sisa),
-            ribuan = split[0].substr(sisa).match(/\d{3}/gi);
-
-        if (ribuan) {
-            separator = sisa ? '.' : '';
-            rupiah += separator + ribuan.join('.');
-        }
-
-        rupiah = split[1] != undefined ? rupiah + ',' + split[1] : rupiah;
-        angka.value = prefix == undefined ? rupiah : (rupiah ? 'Rp. ' + rupiah : '');
-    }
-
-    function hitungTotal() {
-        var harga = document.getElementById('harga').value.replace(/[^0-9]/g, '');
-        var jumlah = document.getElementById('jumlah').value;
-        var total = parseInt(harga) * parseInt(jumlah);
-
-        if (!isNaN(total)) {
-            var totalInput = document.getElementById('total');
-            totalInput.value = total;
-            formatRupiah(totalInput, 'Rp. ');
-        }
-    }
-</script>
