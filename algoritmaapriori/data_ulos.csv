@@ -1,0 +1,401 @@
+﻿ID Transaksi;Tanggal;Nama Produk;Jenis Ulos;Harga Satuan (Rp);Jumlah Terjual;Total (Rp);Nama Pembeli;Kota Tujuan;Metode Pembayaran
+TRX001;01/05/2023;Ulos Ragi Hotang;Ragi Hotang;600000;4;2400000;Budi Siregar;Balige;COD
+TRX002;05/05/2023;Ulos Sibolang;Sibolang;1200000;3;6000000;Johan Pangaribuan;Medan;Kartu Kredit
+TRX003;05/05/2023;Ulos Sibolang;Sibolang;1200000;2;4800000;Johan Pangaribuan;Medan;Kartu Kredit
+TRX004;05/05/2023;Ulos Sibolang;Sibolang;1200000;1;1200000;Johan Pangaribuan;Medan;Kartu Kredit
+TRX005;06/05/2023;Ulos Sibolang;Sibolang;1200000;2;3600000;Duma Manullang;Bandung;Transfer Bank
+TRX006;06/05/2023;Ulos Ragi Hotang;Ragi Hotang;600000;3;3000000;Duma Manullang;Bandung;Transfer Bank
+TRX007;06/05/2023;Ulos Ragidup;Ragidup;750000;3;3000000;Duma Sianturi;Yogyakarta;Transfer Bank
+TRX008;06/05/2023;Ulos Mangiring;Mangiring;500000;2;1000000;Johan Pangaribuan;Surabaya;E-Wallet
+TRX009;07/05/2023;Ulos Sibolang;Sibolang;1200000;1;4800000;Tiur Simbolon;Bandung;E-Wallet
+TRX010;09/05/2023;Ulos Mangiring;Mangiring;500000;2;1500000;Maria Simanjuntak;Palembang;Transfer Bank
+TRX011;09/05/2023;Ulos Ragidup;Ragidup;750000;2;1500000;Yanti Marpaung;Pekanbaru;Kartu Kredit
+TRX012;09/05/2023;Ulos Ragidup;Ragidup;750000;2;1500000;Lamtarida Simbolon;Palembang;Transfer Bank
+TRX013;11/05/2023;Ulos Ragi Hotang;Ragi Hotang;600000;4;2400000;Nina Tampubolon;Batam;Transfer Bank
+TRX014;11/05/2023;Ulos Mangiring;Mangiring;500000;4;2000000;Nina Tampubolon;Batam;Transfer Bank
+TRX015;11/05/2023;Ulos Ragidup;Ragidup;750000;1;3750000;Nina Tampubolon;Batam;Transfer Bank
+TRX016;11/05/2023;Ulos Mangiring;Mangiring;500000;1;2500000;Nina Tampubolon;Batam;Transfer Bank
+TRX017;17/05/2023;Ulos Sibolang;Sibolang;1200000;1;3600000;Sinta Saragih;Yogyakarta;Transfer Bank
+TRX018;17/05/2023;Ulos Ragidup;Ragidup;750000;2;1500000;Robert Sipayung;Bogor;COD
+TRX019;18/05/2023;Ulos Mangiring;Mangiring;500000;1;1500000;Maria Sianipar;Yogyakarta;Transfer Bank
+TRX020;18/05/2023;Ulos Sibolang;Sibolang;1200000;1;6000000;Lasma Sitompul;Yogyakarta;E-Wallet
+TRX021;19/05/2023;Ulos Sibolang;Sibolang;1200000;1;4800000;Niko Saragih;Jakarta;Kartu Kredit
+TRX022;20/05/2023;Ulos Sibolang;Sibolang;1200000;1;2400000;Lasma Lumban Gaol;Pekanbaru;Kartu Kredit
+TRX023;20/05/2023;Ulos Ragidup;Ragidup;750000;2;3750000;Lamnauli Lumban Gaol;Balige;COD
+TRX024;22/05/2023;Ulos Mangiring;Mangiring;500000;3;2500000;Nina Sinaga;Bogor;Kartu Kredit
+TRX025;22/05/2023;Ulos Sibolang;Sibolang;1200000;1;6000000;Tiur Pardosi;Bandung;E-Wallet
+TRX026;25/05/2023;Ulos Mangiring;Mangiring;500000;3;2500000;Anwar Sitompul;Pekanbaru;Transfer Bank
+TRX027;25/05/2023;Ulos Sibolang;Sibolang;1200000;1;6000000;Anwar Sitompul;Pekanbaru;Transfer Bank
+TRX028;25/05/2023;Ulos Ragidup;Ragidup;750000;1;2250000;Anwar Sitompul;Pekanbaru;Transfer Bank
+TRX029;25/05/2023;Ulos Ragidup;Ragidup;750000;1;1500000;Anwar Sitompul;Pekanbaru;Transfer Bank
+TRX030;25/05/2023;Ulos Mangiring;Mangiring;500000;2;2000000;Santa Purba;Bandung;Kartu Kredit
+TRX031;26/05/2023;Ulos Ragidup;Ragidup;750000;1;3750000;Angel Nainggolan;Batam;Kartu Kredit
+TRX032;27/05/2023;Ulos Mangiring;Mangiring;500000;2;1000000;Johan Pangaribuan;Medan;COD
+TRX033;27/05/2023;Ulos Ragidup;Ragidup;750000;1;3000000;Johan Pangaribuan;Medan;COD
+TRX034;27/05/2023;Ulos Bintang Maratur;Bintang Maratur;800000;1;1600000;Lela Pasaribu;Bogor;Transfer Bank
+TRX035;29/05/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;600000;Horas Sinaga;Palembang;E-Wallet
+TRX036;29/05/2023;Ulos Bintang Maratur;Bintang Maratur;800000;1;3200000;Dwi Situngkir;Batam;Kartu Kredit
+TRX037;30/05/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Sinta Parcdede;Surabaya;Kartu Kredit
+TRX038;30/05/2023;Ulos Mangiring;Mangiring;500000;2;2000000;Yanti Marpaung;Surabaya;Kartu Kredit
+TRX039;30/05/2023;Ulos Mangiring;Mangiring;500000;3;2000000;Yanti Marpaung;Surabaya;Kartu Kredit
+TRX040;30/05/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;1800000;Yanti Marpaung;Surabaya;Kartu Kredit
+TRX041;30/05/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Nina Tampubolon;Pekanbaru;E-Wallet
+TRX042;31/05/2023;Ulos Sibolang;Sibolang;1200000;1;3600000;Arta Pardosi;Yogyakarta;Transfer Bank
+TRX043;31/05/2023;Ulos Bintang Maratur;Bintang Maratur;800000;1;1600000;Budi Siregar;Balige;COD
+TRX044;07/06/2023;Ulos Ragidup;Ragidup;750000;1;3750000;Johan Sitepu;Palembang;Kartu Kredit
+TRX045;07/06/2023;Ulos Ragidup;Ragidup;750000;2;3000000;Anwar Sitompul;Jakarta;Transfer Bank
+TRX046;10/06/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;1800000;Tiur Simbolon;Medan;Kartu Kredit
+TRX047;10/06/2023;Ulos Ragi Hotang;Ragi Hotang;600000;3;1200000;Lela Pasaribu;Pekanbaru;COD
+TRX048;10/06/2023;Ulos Sibolang;Sibolang;1200000;1;3600000;Sisil Napitupulu;Surabaya;COD
+TRX049;10/06/2023;Ulos Ragidup;Ragidup;750000;3;3000000;Jesica Sipayung;Palembang;E-Wallet
+TRX050;11/06/2023;Ulos Sibolang;Sibolang;1200000;2;6000000;Lamtaruli Silalahi;Bogor;Kartu Kredit
+TRX051;15/06/2023;Ulos Ragidup;Ragidup;750000;1;3000000;Rinto Lumban Gaol;Balige;Transfer Bank
+TRX052;15/06/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;3000000;Rinto Lumban Gaol;Balige;Transfer Bank
+TRX053;15/06/2023;Ulos Mangiring;Mangiring;500000;2;2000000;Rinto Lumban Gaol;Balige;Transfer Bank
+TRX054;15/06/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Rinto Lumban Gaol;Balige;Transfer Bank
+TRX055;16/06/2023;Ulos Ragidup;Ragidup;750000;3;1500000;Sisil Napitupulu;Pekanbaru;COD
+TRX056;20/06/2023;Ulos Bintang Maratur;Bintang Maratur;800000;1;2400000;Sinta Saragih;Yogyakarta;E-Wallet
+TRX057;20/06/2023;Ulos Bintang Maratur;Bintang Maratur;800000;1;800000;Sinta Saragih;Yogyakarta;E-Wallet
+TRX058;20/06/2023;Ulos Ragidup;Ragidup;750000;2;3750000;Sinta Saragih;Yogyakarta;E-Wallet
+TRX059;20/06/2023;Ulos Sibolang;Sibolang;1200000;1;1200000;Maria Silaban;Batam;E-Wallet
+TRX060;20/06/2023;Ulos Mangiring;Mangiring;500000;2;1000000;Mely Samosir;Pekanbaru;COD
+TRX061;21/06/2023;Ulos Sibolang;Sibolang;1200000;1;1200000;Geby Pasaribu;Jakarta;Transfer Bank
+TRX062;23/06/2023;Ulos Mangiring;Mangiring;500000;3;1500000;Johan Pangaribuan;Balige;Transfer Bank
+TRX063;23/06/2023;Ulos Ragidup;Ragidup;750000;1;750000;Robert Silalahi;Surabaya;COD
+TRX064;25/06/2023;Ulos Mangiring;Mangiring;500000;2;1500000;Sinta Saragih;Balige;COD
+TRX065;27/06/2023;Ulos Ragidup;Ragidup;750000;2;750000;Tiur Simbolon;Jakarta;Transfer Bank
+TRX066;27/06/2023;Ulos Sibolang;Sibolang;1200000;1;4800000;Tiur Simbolon;Jakarta;Transfer Bank
+TRX067;27/06/2023;Ulos Ragidup;Ragidup;750000;1;2250000;Tiur Simbolon;Jakarta;Transfer Bank
+TRX068;29/06/2023;Ulos Mangiring;Mangiring;500000;2;1000000;Anwar Sitompul;Surabaya;Kartu Kredit
+TRX069;29/06/2023;Ulos Mangiring;Mangiring;500000;2;1500000;Johan Pangaribuan;Pekanbaru;Kartu Kredit
+TRX070;30/06/2023;Ulos Mangiring;Mangiring;500000;1;2000000;Anwar Sitompul;Bandung;E-Wallet
+TRX071;01/07/2023;Ulos Ragidup;Ragidup;750000;1;3750000;Togar Nainggolan;Yogyakarta;E-Wallet
+TRX072;01/07/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Togar Nainggolan;Jakarta;Transfer Bank
+TRX073;02/07/2023;Ulos Sibolang;Sibolang;1200000;1;6000000;Yanti Marpaung;Batam;E-Wallet
+TRX074;03/07/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;1800000;Yanti Marpaung;Pekanbaru;COD
+TRX075;03/07/2023;Ulos Sibolang;Sibolang;1200000;1;1200000;Yanti Marpaung;Palembang;E-Wallet
+TRX076;03/07/2023;Ulos Bintang Maratur;Bintang Maratur;800000;2;800000;Johan Pangaribuan;Surabaya;Transfer Bank
+TRX077;05/07/2023;Ulos Sibolang;Sibolang;1200000;1;6000000;Duma Manullang;Yogyakarta;E-Wallet
+TRX078;05/07/2023;Ulos Ragidup;Ragidup;750000;2;3000000;Sinta Saragih;Pekanbaru;COD
+TRX079;10/07/2023;Ulos Bintang Maratur;Bintang Maratur;800000;1;1600000;Robert Silalahi;Jakarta;Transfer Bank
+TRX080;10/07/2023;Ulos Bintang Maratur;Bintang Maratur;800000;2;3200000;Robert Silalahi;Jakarta;Transfer Bank
+TRX081;10/07/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;3000000;Robert Silalahi;Jakarta;Transfer Bank
+TRX082;10/07/2023;Ulos Sibolang;Sibolang;1200000;1;6000000;Robert Silalahi;Jakarta;Transfer Bank
+TRX083;11/07/2023;Ulos Bintang Maratur;Bintang Maratur;800000;2;4000000;Maria Simanjuntak;Bogor;Transfer Bank
+TRX084;11/07/2023;Ulos Sibolang;Sibolang;1200000;1;4800000;Tiur Simbolon;Surabaya;Transfer Bank
+TRX085;15/07/2023;Ulos Mangiring;Mangiring;500000;2;1000000;Tiur Simbolon;Surabaya;E-Wallet
+TRX086;27/07/2023;Ulos Ragidup;Ragidup;750000;2;750000;Johan Pangaribuan;Jakarta;COD
+TRX087;28/07/2023;Ulos Ragidup;Ragidup;750000;1;750000;Rinto Lumban Gaol;Batam;Transfer Bank
+TRX088;29/07/2023;Ulos Mangiring;Mangiring;500000;2;1500000;Nina Tampubolon;Bandung;Transfer Bank
+TRX089;29/07/2023;Ulos Mangiring;Mangiring;500000;2;2000000;Robert Silalahi;Bogor;Transfer Bank
+TRX090;31/07/2023;Ulos Ragidup;Ragidup;750000;1;3000000;Yohana Tampubolon;Balige;E-Wallet
+TRX091;31/07/2023;Ulos Ragidup;Ragidup;750000;1;1500000;Yohana Tampubolon;Balige;E-Wallet
+TRX092;31/07/2023;Ulos Sibolang;Sibolang;1200000;2;3600000;Yohana Tampubolon;Balige;E-Wallet
+TRX093;01/08/2023;Ulos Sibolang;Sibolang;1200000;3;1200000;Togar Nainggolan;Balige;Kartu Kredit
+TRX094;01/08/2023;Ulos Bintang Maratur;Bintang Maratur;800000;2;4000000;Sinta Saragih;Surabaya;Kartu Kredit
+TRX095;02/08/2023;Ulos Mangiring;Mangiring;500000;2;1000000;Johan Pangaribuan;Balige;Transfer Bank
+TRX096;04/08/2023;Ulos Mangiring;Mangiring;500000;3;1500000;Bonar Saragih;Palembang;Transfer Bank
+TRX097;04/08/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;1200000;Bonar Saragih;Palembang;Transfer Bank
+TRX098;05/08/2023;Ulos Ragidup;Ragidup;750000;1;3000000;Yanti Marpaung;Bandung;E-Wallet
+TRX099;08/08/2023;Ulos Ragidup;Ragidup;750000;1;3000000;Togar Nainggolan;Yogyakarta;COD
+TRX100;08/08/2023;Ulos Mangiring;Mangiring;500000;4;1500000;Budi Siregar;Bandung;E-Wallet
+TX102;10/08/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;1800000;Marta Sihombing;Medan;COD
+TRX103;13/08/2023;Ulos Mangiring;Mangiring;500000;4;2500000;Daniel Simatupang;Jakarta;Transfer Bank
+TRX104;13/08/2023;Ulos Sibolang;Sibolang;1200000;1;2400000;Sari Manurung;Surabaya;E-Wallet
+TRX105;13/08/2023;Ulos Ragi Hotang;Ragi Hotang;600000;5;3600000;Joni Situmorang;Batam;Kartu Kredit
+TRX106;17/08/2023;Ulos Ragidup;Ragidup;750000;1;3000000;Johan Pangaribuan;Bandung;COD
+TRX107;17/08/2023;Ulos Mangiring;Mangiring;500000;2;1000000;Geby Pasaribu;Yogyakarta;E-Wallet
+TRX108;18/08/2023;Ulos Sibolang;Sibolang;1200000;1;1200000;Duma Manullang;Bogor;Kartu Kredit
+TRX109;21/08/2023;Ulos Ragidup;Ragidup;750000;1;2250000;Tiur Simbolon;Medan;Transfer Bank
+TRX110;21/08/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;2400000;Tiara Simanjuntak;Pahae;E-Wallet
+TRX111;21/08/2023;Ulos Mangiring;Mangiring;500000;3;2500000;Tiara Simanjuntak;Pahae;E-Wallet
+TRX112;22/08/2023;Ulos Sibolang;Sibolang;1200000;1;2400000;Sari Manurung;Balige;Transfer Bank
+TRX113;23/08/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;3000000;Budi Siregar;Jakarta;COD
+TRX114;25/08/2023;Ulos Mangiring;Mangiring;500000;2;1500000;Maria Simanjuntak;Bandung;E-Wallet
+TRX115;25/08/2023;Ulos Ragidup;Ragidup;750000;1;3000000;Elen Sitorus;Yogyakarta;Transfer Bank
+TRX116;29/08/2023;Ulos Sibolang;Sibolang;1200000;1;1200000;Johan Pangaribuan;Surabaya;Kartu Kredit
+TRX117;30/08/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Duma Manullang;Medan;E-Wallet
+TRX118;05/09/2023;Ulos Ragidup;Ragidup;750000;3;3750000;Joni Situmorang;Bogor;COD
+TRX119;05/09/2023;Ulos Mangiring;Mangiring;500000;2;2000000;Sari Manurung;Batam;Transfer Bank
+TRX120;06/09/2023;Ulos Sibolang;Sibolang;1200000;1;7200000;Marta Sihombing;Medan;Kartu Kredit
+TRX121;06/09/2023;Ulos Ragi Hotang;Ragi Hotang;600000;3;1800000;Daniel Simatupang;Yogyakarta;E-Wallet
+TRX122;06/09/2023;Ulos Ragidup;Ragidup;750000;2;1500000;Johan Pangaribuan;Balige;Transfer Bank
+TRX123;06/09/2023;Ulos Mangiring;Mangiring;500000;1;500000;Budi Siregar;Surabaya;COD
+TRX124;07/09/2023;Ulos Sibolang;Sibolang;1200000;1;6000000;Elen Sitorus;Jakarta;E-Wallet
+TRX125;10/09/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;2400000;Duma Manullang;Bandung;Kartu Kredit
+TRX126;10/09/2023;Ulos Ragidup;Ragidup;750000;1;4500000;Maria Simanjuntak;Medan;Transfer Bank
+TRX127;10/09/2023;Ulos Mangiring;Mangiring;500000;1;1500000;Joni Situmorang;Surabaya;COD
+TRX128;11/09/2023;Ulos Sibolang;Sibolang;1200000;1;2400000;Risama Sihombing;Batam;Transfer Bank
+TRX129;11/09/2023;Ulos Ragi Hotang;Ragi Hotang;600000;3;3600000;Risama Sihombing;Batam;Transfer Bank
+TRX130;11/09/2023;Ulos Ragidup;Ragidup;750000;2;3000000;Risama Sihombing;Batam;Transfer Bank
+TRX130;15/09/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;1800000;Lestari Simbolon;Medan;COD
+TRX131;15/09/2023;Ulos Sibolang;Sibolang;1200000;2;2400000;Ronal Sihombing;Bandung;Transfer Bank
+TRX132;16/09/2023;Ulos Mangiring;Mangiring;500000;2;2500000;Dian Manurung;Surabaya;Kartu Kredit
+TRX133;17/09/2023;Ulos Ragidup;Ragidup;750000;1;3000000;Ferry Pardede;Jakarta;E-Wallet
+TRX134;19/09/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;1800000;Debora Napitupulu;Palembang;Kartu Kredit
+TRX135;20/09/2023;Ulos Sibolang;Sibolang;1200000;1;4800000;Yohana Samosir;Batam;Transfer Bank
+TRX136;20/09/2023;Ulos Mangiring;Mangiring;500000;1;1000000;Geby Pasaribu;Yogyakarta;COD
+TRX137;20/09/2023;Ulos Ragidup;Ragidup;750000;2;3750000;Puspita Hutapea;Balige;E-Wallet
+TRX138;21/09/2023;Ulos Sibolang;Sibolang;1200000;1;1200000;Anggi Manurung;Bogor;Transfer Bank
+TRX139;24/09/2023;Ulos Mangiring;Mangiring;500000;3;2000000;Dedi Nainggolan;Bandung;Kartu Kredit
+TRX140;25/09/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;1800000;Putri Silalahi;Surabaya;COD
+TRX141;27/09/2023;Ulos Ragidup;Ragidup;750000;1;3000000;Samuel Panjaitan;Pekanbaru;Transfer Bank
+TRX142;27/09/2023;Ulos Sibolang;Sibolang;1200000;1;2400000;Lenny Tampubolon;Medan;E-Wallet
+TRX143;29/09/2023;Ulos Mangiring;Mangiring;500000;2;2500000;Junaedi Hutabarat;Jakarta;Kartu Kredit
+TRX144;29/09/2023;Ulos Ragi Hotang;Ragi Hotang;600000;3;2400000;Shalom Sihombing;Yogyakarta;Transfer Bank
+TRX145;29/09/2023;Ulos Ragidup;Ragidup;750000;2;2250000;Shalom Sihombing;Yogyakarta;Transfer Bank
+TRX146;29/09/2023;Ulos Sibolang;Sibolang;1200000;1;6000000;Shalom Sihombing;Yogyakarta;Transfer Bank
+TRX147;30/09/2023;Ulos Mangiring;Mangiring;500000;1;500000;Rio Pardede;Bandung;Kartu Kredit
+TRX148;31/09/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;1800000;Vivi Lumbantoruan;Bogor;COD
+TRX149;31/09/2023;Ulos Ragidup;Ragidup;750000;1;3000000;Hendra Simanungkalit;Palembang;Transfer Bank
+TRX150;01/10/2023;Ulos Sibolang;Sibolang;1200000;2;3600000;Merry Nababan;Jakarta;E-Wallet
+TRX151;01/10/2023;Ulos Mangiring;Mangiring;500000;1;1500000;Sari Napitupulu;Medan;E-Wallet
+TRX152;02/10/2023;Ulos Ragidup;Ragidup;750000;1;3750000;Julian Manurung;Jakarta;Kartu Kredit
+TRX153;02/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Benny Sitorus;Batam;COD
+TRX154;05/10/2023;Ulos Sibolang;Sibolang;1200000;1;4800000;Monica Sihotang;Bandung;Transfer Bank
+TRX155;06/10/2023;Ulos Mangiring;Mangiring;500000;3;2500000;Aldo Panjaitan;Bogor;E-Wallet
+TRX156;07/10/2023;Ulos Ragidup;Ragidup;750000;2;2250000;Selvi Aritonang;Samosir;Transfer Bank
+TRX157;07/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;2400000;Selvi Aritonang;Samosir;Transfer Bank
+TRX158;07/10/2023;Ulos Sibolang;Sibolang;1200000;1;2400000;Selvi Aritonang;Samosir;Transfer Bank
+TRX159;07/10/2023;Ulos Mangiring;Mangiring;500000;3;500000;Selvi Aritonang;Samosir;Transfer Bank
+TRX160;08/10/2023;Ulos Ragidup;Ragidup;750000;1;3750000;Grace Samosir;Bandung;Transfer Bank
+TRX161;08/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;1800000;Ronny Lumban Gaol;Balige;E-Wallet
+TRX162;08/10/2023;Ulos Sibolang;Sibolang;1200000;1;3600000;Irma Napitu;Jakarta;Kartu Kredit
+TRX163;08/10/2023;Ulos Mangiring;Mangiring;500000;2;2000000;Liana Hutapea;Palembang;COD
+TRX164;09/10/2023;Ulos Ragidup;Ragidup;750000;1;1500000;Jerry Pardede;Batam;Transfer Bank
+TRX165;10/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;3000000;Febri Silaban;Medan;E-Wallet
+TRX166;10/10/2023;Ulos Sibolang;Sibolang;1200000;1;2400000;Dina Simatupang;Pekanbaru;Kartu Kredit
+TRX167;12/10/2023;Ulos Mangiring;Mangiring;500000;1;1500000;Andi Simanjuntak;Bogor;Transfer Bank
+TRX168;12/10/2023;Ulos Ragidup;Ragidup;750000;2;2250000;Geby Pasaribu;Bandung;E-Wallet
+TRX169;12/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;3;1200000;Tony Situmorang;Surabaya;COD
+TRX170;13/10/2023;Ulos Sibolang;Sibolang;1200000;1;4800000;Melati Pardede;Yogyakarta;Transfer Bank
+TRX171;15/10/2023;Ulos Mangiring;Mangiring;500000;2;2000000;Sylvia Manurung;Palembang;Kartu Kredit
+TRX172;16/10/2023;Ulos Ragidup;Ragidup;750000;3;2250000;Ricky Lumbantoruan;Batam;Transfer Bank
+TRX173;17/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;3;2400000;Winda Simanjuntak;Bandung;E-Wallet
+TRX174;17/10/2023;Ulos Sibolang;Sibolang;1200000;4;3600000;Hendra Sihombing;Medan;COD
+TRX175;17/10/2023;Ulos Mangiring;Mangiring;500000;2;2500000;Ria Sitompul;Yogyakarta;Transfer Bank
+TRX176;18/10/2023;Ulos Ragidup;Ragidup;750000;3;1500000;Daniel Simatupang;Surabaya;Kartu Kredit
+TRX177;19/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;3000000;Sinta Hutagalung;Jakarta;E-Wallet
+TRX178;19/10/2023;Ulos Sibolang;Sibolang;1200000;1;1200000;Yogi Simbolon;Bandung;COD
+TRX179;20/10/2023;Ulos Mangiring;Mangiring;500000;2;2000000;Erlin Naibaho;Jakarta;Transfer Bank
+TRX180;20/10/2023;Ulos Ragidup;Ragidup;750000;2;3750000;Erlin Naibaho;Jakarta;Transfer Bank
+TRX181;20/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Erlin Naibaho;Jakarta;Transfer Bank
+TRX182;20/10/2023;Ulos Sibolang;Sibolang;1200000;1;4800000;Erlin Naibaho;Jakarta;Transfer Bank
+TRX183;20/10/2023;Ulos Mangiring;Mangiring;500000;2;1500000;Erlin Naibaho;Jakarta;Transfer Bank
+TRX184;21/10/2023;Ulos Ragidup;Ragidup;750000;2;2250000;Clara Simbolon;Surabaya;COD
+TRX185;21/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;3000000;Tony Lumbanbatu;Medan;Kartu Kredit
+TRX186;22/10/2023;Ulos Sibolang;Sibolang;1200000;1;2400000;Olivia Sihombing;Bandung;Transfer Bank
+TRX187;22/10/2023;Ulos Mangiring;Mangiring;500000;1;2500000;Grace Manik;Balige;E-Wallet
+TRX188;22/10/2023;Ulos Ragidup;Ragidup;750000;1;750000;Tommy Panjaitan;Yogyakarta;Kartu Kredit
+TRX189;23/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;2400000;Ika Simanjuntak;Palembang;COD
+TRX190;23/10/2023;Ulos Sibolang;Sibolang;1200000;1;4800000;Albert Napitupulu;Bogor;Transfer Bank
+TRX191;24/10/2023;Ulos Mangiring;Mangiring;500000;2;2000000;Veronika Situmorang;Bandung;Kartu Kredit
+TRX192;24/10/2023;Ulos Ragidup;Ragidup;750000;1;2250000;Joko Lumbantoruan;Medan;Transfer Bank
+TRX193;25/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;1;3000000;Yuli Simanjuntak;Surabaya;E-Wallet
+TRX194;26/10/2023;Ulos Sibolang;Sibolang;1200000;1;2400000;Togar Samosir;Yogyakarta;COD
+TRX195;29/10/2023;Ulos Mangiring;Mangiring;500000;2;2500000;Geby Pasaribu;Batam;Transfer Bank
+TRX196;29/10/2023;Ulos Ragidup;Ragidup;750000;2;1500000;Aditya Sihotang;Jakarta;Kartu Kredit
+TRX197;30/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;3;1800000;Sari Hutapea;Pekanbaru;E-Wallet
+TRX198;30/10/2023;Ulos Sibolang;Sibolang;1200000;3;4800000;Doni Panjaitan;Palembang;COD
+TRX199;30/10/2023;31/10/2023+J202;Mangiring;500000;3;1500000;Nina Napitu;Bogor;Transfer Bank
+TRX200;31/10/2023;Ulos Ragidup;Ragidup;750000;2;3750000;Robet Simbolon;Bandung;E-Wallet
+TRX201;31/10/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;2400000;Robet Simbolon;Bandung;E-Wallet
+TRX202;06/11/2023;Ulos Sibolang;Sibolang;1200000;1;2400000;Matius Sihombing;Surabaya;Transfer Bank
+TRX203;06/11/2023;Ulos Mangiring;Mangiring;500000;1;1000000;Debby Lumbanbatu;Medan;COD
+TRX204;07/11/2023;Ulos Ragidup;Ragidup;750000;3;3000000;Hans Sitorus;Jakarta;E-Wallet
+TRX205;08/11/2023;Ulos Ragi Hotang;Ragi Hotang;600000;3;3000000;Silvi Pardede;Palembang;Transfer Bank
+TRX206;10/11/2023;Ulos Sibolang;Sibolang;1200000;2;3600000;Leo Tambunan;Bogor;Kartu Kredit
+TRX207;13/11/2023;Ulos Mangiring;Mangiring;500000;1;500000;Amanda Hutagalung;Batam;Transfer Bank
+TRX208;13/11/2023;Ulos Ragidup;Ragidup;750000;2;1500000;Amanda Hutagalung;Batam;Transfer Bank
+TRX209;13/11/2023;Ulos Ragi Hotang;Ragi Hotang;600000;2;2400000;Amanda Hutagalung;Batam;Transfer Bank
+TRX210;13/11/2023;Ulos Sibolang;Sibolang;1200000;1;1200000;Erwin Simbolon;Jakarta;Kartu Kredit
+TRX301;2023-11-14;Ulos Sibolang;Sibolang;1200000;2;2400000;Rama Simanjuntak;Pekanbaru;E-Wallet
+TRX211;2023-11-14;Ulos Ragidup;Ragidup;750000;2;2250000;Nina Tampubolon;Pekanbaru;E-Wallet
+TRX212;2023-11-17;Ulos Ragi Hotang;Ragi Hotang;600000;3;3000000;Robert Simbolon;Bogor;Transfer Bank
+TRX213;2023-11-17;Ulos Ragi Hotang;Ragi Hotang;600000;1;600000;Maria Simanjuntak;Surabaya;Kartu Kredit
+TRX214;2023-11-17;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Anwar Sitompul;Jakarta;COD
+TRX215;2023-11-17;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Geby Pasaribu;Palembang;COD
+TRX216;2023-11-18;Ulos Mangiring;Mangiring;500000;1;500000;Nina Tampubolon;Medan;Kartu Kredit
+TRX217;2023-11-18;Ulos Sibolang;Sibolang;1200000;1;7200000;Maria Simanjuntak;Bandung;Kartu Kredit
+TRX218;2023-11-19;Ulos Mangiring;Mangiring;500000;1;500000;Nina Tampubolon;Yogyakarta;Transfer Bank
+TRX219;2023-11-20;Ulos Sibolang;Sibolang;1200000;2;2400000;Dina Samosir;Yogyakarta;E-Wallet
+TRX220;2023-11-22;Ulos Sibolang;Sibolang;1200000;2;4800000;Jenny Hutabarat;Pekanbaru;Kartu Kredit
+TRX221;2023-11-22;Ulos Ragidup;Ragidup;750000;2;3750000;Sari Hutapea;Yogyakarta;COD
+TRX222;2023-11-23;Ulos Ragidup;Ragidup;750000;2;2250000;Robert Simbolon;Bogor;Kartu Kredit
+TRX223;2023-11-25;Ulos Ragidup;Ragidup;750000;1;1500000;Tasya Sitompul;Balige;Transfer Bank
+TRX224;2023-11-25;Ulos Sibolang;Sibolang;1200000;1;3600000;Tasya Sitompul;Balige;Transfer Bank
+TRX225;2023-11-25;Ulos Ragidup;Ragidup;750000;1;1500000;Tasya Sitompul;Balige;Transfer Bank
+TRX226;2023-11-26;Ulos Ragidup;Ragidup;750000;2;1500000;Tony Sitompul;Medan;Kartu Kredit
+TRX227;2023-11-26;Ulos Mangiring;Mangiring;500000;3;3000000;Maria Simanjuntak;Medan;Transfer Bank
+TRX228;2023-11-27;Ulos Sibolang;Sibolang;1200000;2;4800000;Togar Nainggolan;Palembang;COD
+TRX229;2023-11-27;Ulos Ragi Hotang;Ragi Hotang;600000;1;1800000;Hendra Simanungkalit;Surabaya;Transfer Bank
+TRX230;2023-11-29;Ulos Mangiring;Mangiring;500000;1;1500000;Sinta Saragih;Medan;E-Wallet
+TRX231;2023-11-29;Ulos Sibolang;Sibolang;1200000;1;4800000;Eko Pardede;Surabaya;Transfer Bank
+TRX232;2023-11-29;Ulos Sibolang;Sibolang;1200000;2;2400000;Vina Sinaga;Surabaya;COD
+TRX233;2023-11-30;Ulos Ragidup;Ragidup;750000;2;2250000;Yuliana Siregar;Bandung;Kartu Kredit
+TRX234;2023-11-30;Ulos Mangiring;Mangiring;500000;2;1000000;Hendra Simanungkalit;Bandung;E-Wallet
+TRX235;2023-11-30;Ulos Mangiring;Mangiring;500000;1;500000;Geby Pasaribu;Medan;Transfer Bank
+TRX236;2023-12-01;Ulos Ragi Hotang;Ragi Hotang;600000;3;2400000;Robert Sihombing;Tarutung;Transfer Bank
+TRX237;2023-12-01;Ulos Ragi Hotang;Ragi Hotang;600000;1;600000;Robert Sihombing;Tarutung;Transfer Bank
+TRX238;2023-12-01;Ulos Mangiring;Mangiring;500000;3;2500000;Robert Sihombing;Tarutung;Transfer Bank
+TRX239;2023-12-01;Ulos Sibolang;Sibolang;1200000;1;2400000;Robert Sihombing;Tarutung;Transfer Bank
+TRX240;2023-12-02;Ulos Ragidup;Ragidup;750000;3;3000000;Sari Hutapea;Surabaya;COD
+TRX241;2023-12-02;Ulos Ragi Hotang;Ragi Hotang;600000;3;3000000;Maria Simanjuntak;Palembang;E-Wallet
+TRX242;2023-12-04;Ulos Mangiring;Mangiring;500000;1;1000000;Sari Hutapea;Batam;Transfer Bank
+TRX243;2023-12-04;Ulos Ragi Hotang;Ragi Hotang;600000;1;3000000;Robert Simbolon;Medan;E-Wallet
+TRX244;2023-12-04;Ulos Sibolang;Sibolang;1200000;1;4800000;Vina Sinaga;Yogyakarta;Kartu Kredit
+TRX245;2023-12-04;Ulos Ragidup;Ragidup;750000;1;2250000;Yanti Marpaung;Medan;Transfer Bank
+TRX246;2023-12-04;Ulos Mangiring;Mangiring;500000;2;3000000;Robert Simbolon;Yogyakarta;E-Wallet
+TRX247;2023-12-05;Ulos Mangiring;Mangiring;500000;1;3000000;Dina Samosir;Bogor;COD
+TRX248;2023-12-05;Ulos Ragi Hotang;Ragi Hotang;600000;1;3600000;Sari Hutapea;Pekanbaru;Kartu Kredit
+TRX249;2023-12-05;Ulos Ragidup;Ragidup;750000;1;3000000;Hendra Simanungkalit;Jakarta;COD
+TRX250;2023-12-05;Ulos Ragi Hotang;Ragi Hotang;600000;2;1800000;Nina Tampubolon;Bogor;Transfer Bank
+TRX251;2023-12-05;Ulos Ragi Hotang;Ragi Hotang;600000;3;3600000;Tiur Simbolon;Yogyakarta;E-Wallet
+TRX252;2023-12-06;Ulos Ragi Hotang;Ragi Hotang;600000;3;600000;Yanti Marpaung;Medan;COD
+TRX253;2023-12-07;Ulos Ragi Hotang;Ragi Hotang;600000;1;600000;Vina Sinaga;Surabaya;Transfer Bank
+TRX254;2023-12-07;Ulos Mangiring;Mangiring;500000;1;500000;Sinta Saragih;Pekanbaru;Transfer Bank
+TRX255;2023-12-07;Ulos Sibolang;Sibolang;1200000;1;1200000;Ronald Hutapea;Bogor;Kartu Kredit
+TRX256;2023-12-08;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Ronald Hutapea;Medan;Transfer Bank
+TRX257;2023-12-08;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Eko Pardede;Medan;Transfer Bank
+TRX258;2023-12-10;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Yanti Situngkir;Medan;Transfer Bank
+TRX259;2023-12-10;Ulos Sibolang;Sibolang;1200000;2;4800000;Yanti Situngkir;Medan;Transfer Bank
+TRX260;2023-12-10;Ulos Ragidup;Ragidup;750000;2;1500000;Yanti Situngkir;Medan;Transfer Bank
+TRX261;2023-12-10;Ulos Mangiring;Mangiring;500000;1;1500000;Yanti Situngkir;Medan;Transfer Bank
+TRX262;2023-12-10;Ulos Mangiring;Mangiring;500000;3;1500000;Yuliana Siregar;Surabaya;COD
+TRX263;2023-12-11;Ulos Mangiring;Mangiring;500000;5;2500000;Tiur Simbolon;Yogyakarta;COD
+TRX264;2023-12-11;Ulos Sibolang;Sibolang;1200000;1;1200000;Hostia Sitompul;Bandung;Transfer Bank
+TRX265;2023-12-12;Ulos Mangiring;Mangiring;500000;2;2500000;Tony Sitompul;Balige;COD
+TRX266;2023-12-12;Ulos Ragidup;Ragidup;750000;2;3000000;Tiur Simbolon;Yogyakarta;Kartu Kredit
+TRX267;2023-12-13;Ulos Mangiring;Mangiring;500000;2;3000000;Budi Siregar;Palembang;Transfer Bank
+TRX268;2023-12-13;Ulos Ragi Hotang;Ragi Hotang;600000;1;600000;Budi Siregar;Surabaya;Transfer Bank
+TRX269;2023-12-13;Ulos Ragidup;Ragidup;750000;3;3000000;Vina Sinaga;Jakarta;Kartu Kredit
+TRX270;2023-12-14;Ulos Mangiring;Mangiring;500000;6;3000000;Rama Simanjuntak;Batam;Kartu Kredit
+TRX271;2023-12-14;Ulos Ragi Hotang;Ragi Hotang;600000;1;600000;Sari Hutapea;Batam;COD
+TRX272;2023-12-15;Ulos Mangiring;Mangiring;500000;1;500000;Tiar Sihombing;Tarutung;Transfer Bank
+TRX273;2023-12-15;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Tiar Sihombing;Tarutung;Transfer Bank
+TRX274;2023-12-15;Ulos Mangiring;Mangiring;500000;5;2500000;Tiar Sihombing;Tarutung;Transfer Bank
+TRX275;2023-12-16;Ulos Sibolang;Sibolang;1200000;3;7200000;Sari Hutapea;Medan;COD
+TRX276;2023-12-17;Ulos Ragi Hotang;Ragi Hotang;600000;4;3000000;Anwar Sitompul;Balige;Transfer Bank
+TRX277;2023-12-17;Ulos Sibolang;Sibolang;1200000;1;7200000;Tony Sitompul;Yogyakarta;COD
+TRX278;2023-12-17;Ulos Mangiring;Mangiring;500000;1;1500000;Rama Simanjuntak;Pekanbaru;E-Wallet
+TRX279;2023-12-18;Ulos Ragidup;Ragidup;750000;3;1500000;Duma Manullang;Balige;E-Wallet
+TRX280;2023-12-18;Ulos Mangiring;Mangiring;500000;3;2500000;Hendra Simanungkalit;Jakarta;E-Wallet
+TRX281;2023-12-18;Ulos Sibolang;Sibolang;1200000;2;1200000;Ronald Hutapea;Balige;COD
+TRX282;2023-12-21;Ulos Sibolang;Sibolang;1200000;1;6000000;Moren Simanjuntak;Balige;Transfer Bank
+TRX283;2023-12-21;Ulos Ragi Hotang;Ragi Hotang;600000;3;1800000;Moren Simanjuntak;Balige;Transfer Bank
+TRX284;2023-12-21;Ulos Mangiring;Mangiring;500000;2;3000000;Moren Simanjuntak;Balige;Transfer Bank
+TRX285;2023-12-21;Ulos Ragi Hotang;Ragi Hotang;600000;2;1800000;Moren Simanjuntak;Balige;Transfer Bank
+TRX286;2023-12-21;Ulos Mangiring;Mangiring;500000;2;1000000;Togar Nainggolan;Medan;Transfer Bank
+TRX287;2023-12-22;Ulos Sibolang;Sibolang;1200000;1;4800000;Jenny Hutabarat;Medan;Transfer Bank
+TRX288;2023-12-22;Ulos Sibolang;Sibolang;1200000;1;1200000;Yanti Marpaung;Medan;E-Wallet
+TRX289;2023-12-22;Ulos Mangiring;Mangiring;500000;2;1000000;Anwar Sitompul;Palembang;COD
+TRX290;2023-12-23;Ulos Ragi Hotang;Ragi Hotang;600000;3;1800000;Hostia Sitompul;Surabaya;E-Wallet
+TRX291;2023-12-23;Ulos Mangiring;Mangiring;500000;5;3000000;Vina Sinaga;Yogyakarta;Transfer Bank
+TRX292;2023-12-23;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Togar Nainggolan;Surabaya;Kartu Kredit
+TRX293;2023-12-27;Ulos Sibolang;Sibolang;1200000;1;4800000;Rama Simanjuntak;Bogor;E-Wallet
+TRX294;2023-12-27;Ulos Mangiring;Mangiring;500000;1;2000000;Robert Simbolon;Batam;Transfer Bank
+TRX295;2023-12-28;Ulos Mangiring;Mangiring;500000;3;1500000;Sintia Hutapea;Sibolga;Transfer Bank
+TRX296;2023-12-28;Ulos Sibolang;Sibolang;1200000;2;2400000;Sintia Hutapea;Sibolga;Transfer Bank
+TRX297;2023-12-28;Ulos Ragi Hotang;Ragi Hotang;600000;2;3000000;Sintia Hutapea;Sibolga;Transfer Bank
+TRX298;2023-12-28;Ulos Ragi Hotang;Ragi Hotang;600000;3;2400000;Sintia Hutapea;Sibolga;Transfer Bank
+TRX299;2023-12-28;Ulos Sibolang;Sibolang;1200000;3;4800000;Sintia Hutapea;Sibolga;Transfer Bank
+TRX300;2023-12-29;Ulos Mangiring;Mangiring;500000;1;1500000;Sari Hutapea;Surabaya;Transfer Bank
+TRX302;2023-12-29;Ulos Mangiring;Mangiring;500000;1;2000000;Rama Simanjuntak;Palembang;COD
+TRX303;2023-12-29;Ulos Sibolang;Sibolang;1200000;1;7200000;Jenny Hutabarat;Surabaya;E-Wallet
+TRX304;2023-12-30;Ulos Ragi Hotang;Ragi Hotang;600000;3;3000000;Molen Simbolon;Tarutung;Transfer Bank
+TRX305;2023-12-30;Ulos Ragidup;Ragidup;750000;3;3000000;Molen Simbolon;Tarutung;Transfer Bank
+TRX306;2023-12-30;Ulos Ragi Hotang;Ragi Hotang;600000;1;600000;Molen Simbolon;Tarutung;Transfer Bank
+TRX307;2023-12-30;Ulos Sibolang;Sibolang;1200000;2;7200000;Molen Simbolon;Tarutung;Transfer Bank
+TRX308;2024-01-02;Ulos Ragi Hotang;Ragi Hotang;600000;4;2400000;Tiur Simbolon;Medan;Transfer Bank
+TRX309;2024-01-02;Ulos Ragidup;Ragidup;750000;3;2250000;Hostia Sitompul;Bandung;COD
+TRX310;2024-01-02;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Duma Manullang;Balige;Kartu Kredit
+TRX311;2024-01-02;Ulos Sibolang;Sibolang;1200000;1;7200000;Mauliate Hutapea;Sipoholon;Transfer Bank
+TRX312;2024-01-02;Ulos Mangiring;Mangiring;500000;2;1000000;Mauliate Hutapea;Sipoholon;Transfer Bank
+TRX313;2024-01-02;Ulos Sibolang;Sibolang;1200000;1;3600000;Mauliate Hutapea;Sipoholon;Transfer Bank
+TRX314;2024-01-02;Ulos Ragi Hotang;Ragi Hotang;600000;2;2400000;Mauliate Hutapea;Sipoholon;Transfer Bank
+TRX315;2024-01-02;Ulos Sibolang;Sibolang;1200000;2;6000000;Mauliate Hutapea;Sipoholon;Transfer Bank
+TRX316;2024-01-03;Ulos Mangiring;Mangiring;500000;3;2500000;Nina Tampubolon;Bogor;COD
+TRX317;2024-01-03;Ulos Ragidup;Ragidup;750000;2;3000000;Hendra Simanungkalit;Pekanbaru;Kartu Kredit
+TRX318;2024-01-04;Ulos Sibolang;Sibolang;1200000;1;6000000;Yuliana Siregar;Yogyakarta;COD
+TRX319;2024-01-04;Ulos Ragidup;Ragidup;750000;1;750000;Hostia Sitompul;Medan;Transfer Bank
+TRX320;2024-01-04;Ulos Ragidup;Ragidup;750000;1;2250000;Robert Simbolon;Bandung;COD
+TRX321;2024-01-06;Ulos Mangiring;Mangiring;500000;1;1500000;Anwar Sitompul;Surabaya;E-Wallet
+TRX322;2024-01-06;Ulos Ragidup;Ragidup;750000;2;3000000;Vina Sinaga;Medan;E-Wallet
+TRX323;2024-01-06;Ulos Mangiring;Mangiring;500000;3;2500000;Rama Simanjuntak;Jakarta;Kartu Kredit
+TRX324;2024-01-07;Ulos Ragi Hotang;Ragi Hotang;600000;2;3600000;Geby Pasaribu;Surabaya;Kartu Kredit
+TRX325;2024-01-07;Ulos Mangiring;Mangiring;500000;2;2000000;Yanti Marpaung;Yogyakarta;E-Wallet
+TRX326;2024-01-10;Ulos Sibolang;Sibolang;1200000;1;2400000;Yolanda Simbolon;Bogor;Transfer Bank
+TRX327;2024-01-10;Ulos Mangiring;Mangiring;500000;4;1500000;Yolanda Simbolon;Bogor;Transfer Bank
+TRX328;2024-01-10;Ulos Ragi Hotang;Ragi Hotang;600000;4;600000;Yolanda Simbolon;Bogor;Transfer Bank
+TRX329;2024-01-10;Ulos Ragi Hotang;Ragi Hotang;600000;5;3000000;Yolanda Simbolon;Bogor;Transfer Bank
+TRX330;2024-01-12;Ulos Ragidup;Ragidup;750000;1;3000000;Maria Simanjuntak;Pekanbaru;Kartu Kredit
+TRX331;2024-01-12;Ulos Sibolang;Sibolang;1200000;1;1200000;Sinta Saragih;Batam;Transfer Bank
+TRX332;2024-01-12;Ulos Mangiring;Mangiring;500000;4;2000000;Jenny Hutabarat;Jakarta;Kartu Kredit
+TRX333;2024-01-14;Ulos Ragi Hotang;Ragi Hotang;600000;3;1800000;Dina Samosir;Batam;Transfer Bank
+TRX334;2024-01-14;Ulos Mangiring;Mangiring;500000;4;2000000;Tiur Simbolon;Jakarta;COD
+TRX335;2024-01-14;Ulos Mangiring;Mangiring;500000;1;500000;Yanti Marpaung;Yogyakarta;COD
+TRX336;2024-01-14;Ulos Sibolang;Sibolang;1200000;2;6000000;Tony Sitompul;Jakarta;Kartu Kredit
+TRX337;2024-01-17;Ulos Ragi Hotang;Ragi Hotang;600000;3;1800000;Budi Siregar;Balige;COD
+TRX338;2024-01-17;Ulos Ragi Hotang;Ragi Hotang;600000;2;600000;Duma Sipayung;Palembang;Transfer Bank
+TRX339;2024-01-17;Ulos Mangiring;Mangiring;500000;2;500000;Duma Sipayung;Palembang;Transfer Bank
+TRX340;2024-01-17;Ulos Sibolang;Sibolang;1200000;2;7200000;Sari Hutapea;Batam;COD
+TRX341;2024-01-18;Ulos Ragidup;Ragidup;750000;2;1500000;Yanti Marpaung;Yogyakarta;Transfer Bank
+TRX342;2024-01-18;Ulos Ragidup;Ragidup;750000;4;3000000;Rama Simanjuntak;Surabaya;Transfer Bank
+TRX343;2024-01-18;Ulos Sibolang;Sibolang;1200000;3;3600000;Tiur Simbolon;Yogyakarta;E-Wallet
+TRX344;2024-01-21;Ulos Sibolang;Sibolang;1200000;1;1200000;Ronald Hutapea;Pekanbaru;Transfer Bank
+TRX345;2024-01-21;Ulos Ragi Hotang;Ragi Hotang;600000;4;2400000;Vina Sinaga;Surabaya;Transfer Bank
+TRX346;2024-01-21;Ulos Ragidup;Ragidup;750000;4;3000000;Yanti Marpaung;Jakarta;E-Wallet
+TRX347;2024-01-22;Ulos Ragi Hotang;Ragi Hotang;600000;3;3000000;Tiur Simbolon;Bogor;COD
+TRX348;2024-01-22;Ulos Ragi Hotang;Ragi Hotang;600000;1;1800000;Robert Simbolon;Jakarta;COD
+TRX349;2024-01-22;Ulos Ragi Hotang;Ragi Hotang;600000;1;1800000;Hendra Simanungkalit;Pekanbaru;E-Wallet
+TRX350;2024-01-25;Ulos Ragi Hotang;Ragi Hotang;600000;2;1800000;Raima Pardede;Sibolga;Transfer Bank
+TRX351;2024-01-25;Ulos Ragi Hotang;Ragi Hotang;600000;1;600000;Raima Pardede;Sibolga;Transfer Bank
+TRX352;2024-01-25;Ulos Ragidup;Ragidup;750000;1;3750000;Raima Pardede;Sibolga;Transfer Bank
+TRX353;2024-01-25;Ulos Ragidup;Ragidup;750000;1;3750000;Raima Pardede;Sibolga;Transfer Bank
+TRX354;2024-01-25;Ulos Mangiring;Mangiring;500000;2;1000000;Raima Pardede;Sibolga;Transfer Bank
+TRX355;2024-01-26;Ulos Mangiring;Mangiring;500000;1;500000;Robert Simbolon;Medan;COD
+TRX356;2024-01-26;Ulos Ragidup;Ragidup;750000;4;3000000;Duma Manullang;Batam;Transfer Bank
+TRX357;2024-01-27;Ulos Ragidup;Ragidup;750000;5;3750000;Budi Siregar;Yogyakarta;COD
+TRX358;2024-01-27;Ulos Sibolang;Sibolang;1200000;6;7200000;Ronald Hutapea;Medan;Kartu Kredit
+TRX359;2024-01-27;Ulos Ragi Hotang;Ragi Hotang;600000;6;3600000;Sinta Saragih;Balige;COD
+TRX360;2024-01-27;Ulos Mangiring;Mangiring;500000;5;2500000;Hendra Simanungkalit;Bogor;Kartu Kredit
+TRX361;2024-01-29;Ulos Ragi Hotang;Ragi Hotang;600000;5;3000000;Sinta Saragih;Balige;E-Wallet
+TRX362;2024-01-29;Ulos Mangiring;Mangiring;500000;4;2000000;Dina Samosir;Medan;E-Wallet
+TRX363;2024-01-29;Ulos Mangiring;Mangiring;500000;4;2000000;Anwar Sitompul;Medan;E-Wallet
+TRX364;2024-01-31;Ulos Mangiring;Mangiring;500000;6;3000000;Robert Simbolon;Palembang;COD
+TRX365;2024-01-31;Ulos Sibolang;Sibolang;1200000;1;1200000;Togar Nainggolan;Bogor;Kartu Kredit
+TRX366;2024-02-01;Ulos Mangiring;Mangiring;500000;4;2000000;Hostia Sitompul;Samosir;Transfer Bank
+TRX367;2024-02-01;Ulos Sibolang;Sibolang;1200000;2;2400000;Hostia Sitompul;Samosir;Transfer Bank
+TRX368;2024-02-01;Ulos Ragi Hotang;Ragi Hotang;600000;5;3000000;Hostia Sitompul;Samosir;Transfer Bank
+TRX369;2024-02-01;Ulos Sibolang;Sibolang;1200000;5;6000000;Hostia Sitompul;Samosir;Transfer Bank
+TRX370;2024-02-02;Ulos Sibolang;Sibolang;1200000;2;2400000;Hendra Simanungkalit;Pekanbaru;Kartu Kredit
+TRX371;2024-02-02;Ulos Ragidup;Ragidup;750000;2;1500000;Tony Sitompul;Surabaya;COD
+TRX372;2024-02-03;Ulos Ragidup;Ragidup;750000;1;750000;Vina Sinaga;Yogyakarta;COD
+TRX373;2024-02-05;Ulos Mangiring;Mangiring;500000;4;2000000;Duma Manullang;Palembang;Kartu Kredit
+TRX374;2024-02-05;Ulos Sibolang;Sibolang;1200000;6;7200000;Vina Sinaga;Medan;COD
+TRX375;2024-02-05;Ulos Ragidup;Ragidup;750000;1;750000;Vina Sinaga;Surabaya;Transfer Bank
+TRX376;2024-02-05;Ulos Ragi Hotang;Ragi Hotang;600000;4;2400000;Budi Siregar;Yogyakarta;E-Wallet
+TRX377;2024-02-07;Ulos Mangiring;Mangiring;500000;5;2500000;Hendra Simanungkalit;Bogor;Transfer Bank
+TRX378;2024-02-11;Ulos Mangiring;Mangiring;500000;5;2500000;Jenny Hutabarat;Palembang;E-Wallet
+TRX379;2024-02-11;Ulos Sibolang;Sibolang;1200000;4;4800000;Yanti Marpaung;Palembang;Kartu Kredit
+TRX380;2024-02-15;Ulos Sibolang;Sibolang;1200000;1;1200000;Dina Sianturi;Siborongborong;E-Wallet
+TRX381;2024-02-15;Ulos Ragidup;Ragidup;750000;6;4500000;Dina Sianturi;Siborongborong;E-Wallet
+TRX382;2024-02-15;Ulos Sibolang;Sibolang;1200000;6;7200000;Dina Sianturi;Siborongborong;E-Wallet
+TRX383;2024-02-17;Ulos Sibolang;Sibolang;1200000;6;7200000;Nina Tampubolon;Medan;Transfer Bank
+TRX384;2024-02-20;Ulos Ragidup;Ragidup;750000;6;4500000;Tony Sitompul;Bandung;E-Wallet
+TRX385;2024-02-20;Ulos Ragidup;Ragidup;750000;3;2250000;Eko Pardede;Batam;E-Wallet
+TRX386;2024-02-22;Ulos Mangiring;Mangiring;500000;2;1000000;Tony Sitompul;Medan;E-Wallet
+TRX387;2024-02-24;Ulos Ragidup;Ragidup;750000;5;3750000;Yuliana Siregar;Pekanbaru;E-Wallet
+TRX388;2024-02-24;Ulos Mangiring;Mangiring;500000;2;1000000;Ronald Hutapea;Surabaya;E-Wallet
+TRX389;2024-02-24;Ulos Sibolang;Sibolang;1200000;5;6000000;Sari Hutapea;Jakarta;E-Wallet
+TRX390;2024-02-28;Ulos Ragidup;Ragidup;750000;4;3000000;Geby Pasaribu;Surabaya;Kartu Kredit
+TRX391;2024-02-28;Ulos Mangiring;Mangiring;500000;4;2000000;Maria Simanjuntak;Palembang;E-Wallet
+TRX392;2024-05-22;Ulos Mangiring;Mangiring;500000;3;1500000;Sari Hutapea;Pekanbaru;Kartu Kredit
+TRX393;2024-05-22;Ulos Ragidup;Ragidup;750000;6;4500000;Jenny Hutabarat;Yogyakarta;Kartu Kredit
+TRX394;2024-05-22;Ulos Mangiring;Mangiring;500000;5;2500000;Nina Tampubolon;Pekanbaru;Transfer Bank
+TRX395;2024-05-22;Ulos Sibolang;Sibolang;1200000;1;1200000;Hendra Simanungkalit;Surabaya;Transfer Bank
+TRX396;2024-05-22;Ulos Ragi Hotang;Ragi Hotang;600000;4;2400000;Sinta Saragih;Bogor;E-Wallet
+TRX397;2024-05-22;Ulos Mangiring;Mangiring;500000;6;3000000;Sinta Saragih;Yogyakarta;E-Wallet
+TRX398;2024-05-22;Ulos Mangiring;Mangiring;500000;2;1000000;Eko Pardede;Bogor;Kartu Kredit
+TRX399;2024-05-22;Ulos Ragi Hotang;Ragi Hotang;600000;2;1200000;Eko Pardede;Balige;COD
+TRX400;2024-05-22;Ulos Mangiring;Mangiring;500000;4;2000000;Rama Simanjuntak;Palembang;COD
