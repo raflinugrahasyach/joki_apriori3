@@ -857,11 +857,9 @@ function link_text($link, $label, $params = '')
  * @param type $value
  * @return type
  */
-function price_format($number) {
-    if (!is_numeric($number)) {
-        $number = 0;
-    }
-    return "Rp " . number_format($number, 0, ',', '.');
+function price_format($value)
+{
+    return number_format($value, 2, ',', '.');
 }
 
 /**

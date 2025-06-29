@@ -1,25 +1,21 @@
 <?php
-// Menyertakan file class database dan membuat koneksi yang benar
-include_once "../database.php";
-$db_object = new database();
-
-if (isset($_POST['idx'])) {
+$conn = mysqli_connect('localhost', 'root', 'hteeshy28', 'dm_apriori');
+if ($_POST['idx']) {
     $id = $_POST['idx'];
-    
-    // Mengambil data menggunakan method db_query yang benar
-    $query = $db_object->db_query("SELECT * FROM `tbl_produk` WHERE id_produk='$id' ");
-    $row = $db_object->db_fetch_array($query);
-
-    // Form ini sekarang sudah benar dan tidak akan error lagi
-    echo '<input type="hidden" name="id_produk" value="' . $row['id_produk'] . '">';
+    $data = mysqli_query($conn, "SELECT * FROM `tbl_produk` WHERE id_produk='$id' ");
+    $row = mysqli_fetch_array($data);
+    echo '<input type="hidden" name="id_produk" value="' . $id . '">';
     echo '<div class="form-group">
-            <label for="edit_jenis_ulos">Jenis Ulos</label>
-            <input type="text" name="jenis_ulos" value="' . htmlspecialchars($row['jenis_ulos']) . '" id="edit_jenis_ulos" class="form-control" required />
-          </div>';
-    echo '<div class="form-group">
-            <label for="edit_harga">Harga</label>
-            <input type="number" name="harga" value="' . htmlspecialchars($row['harga']) . '" id="edit_harga" class="form-control">
-          </div>';
-    // Input file dan gambar sudah tidak ada sesuai permintaan.
+        <label for="">Produk</label>
+        <input type="text" name="produk" value="' . $row['produk'] . '" id="" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="">Harga</label>
+        <input type="number" name="harga" value="' . $row['harga'] . '" class="form-control">
+    </div>
+    <div class="form-group">
+        <label for="">File</label>
+        <input type="file" name="file" class="form-control" >
+    </div>';
+    echo '<img src="file/' . $row['foto'] . '" width="180px" height="180px" alt="">';
 }
-?>
